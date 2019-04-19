@@ -1,3 +1,5 @@
+let min = 1;
+let max = 10;
 let guessesLeft = 3;
 let winningNumber = getWinningNumber();
 
