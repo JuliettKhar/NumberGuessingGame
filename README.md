@@ -1,1 +1,2 @@
-# NumberGuessingGame https://juliettkhar.github.io/NumberGuessingGame/
+# NumberGuessingGame
+https://juliettkhar.github.io/NumberGuessingGame/
